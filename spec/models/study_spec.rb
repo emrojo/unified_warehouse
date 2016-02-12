@@ -34,6 +34,7 @@ describe Study do
         "reference_genome" => "reference genome",
         "ethically_approved" => true,
         "sac_sponsor" => "faculty sponsor",
+        "program" => "General",
         "state" => "state",
         "study_type" => "study type",
         "abstract" => "abstract",
